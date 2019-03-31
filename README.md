@@ -5,3 +5,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # install nodejs
 # npm start
 
+# Tim hieu :
+### JSX
+### Element
+### Components
+### Props
+### State
+
